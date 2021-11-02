@@ -1,0 +1,81 @@
+*, html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+.page {
+    margin: auto;
+    width: 1000px;
+    background-color: #ebd5b3;
+}
+.center {
+    text-align: center;
+    margin-top: 150px;
+}
+.paragraf {
+    text-align: left;
+    margin-top: 100px;
+}
+.just {
+    text-shadow: rebeccapurple;
+    text-transform: capitalize;
+
+}
+.text {
+    text-indent: 40px;
+    text-align: justify;
+}
+.italic {
+    font-style: italic;
+} 
+.over {
+    text-decoration: overline;
+}
+.caps {
+    text-transform: uppercase;
+}
+.bold {
+    font-weight: 900;
+}
+.gold {
+    color: gold;
+    background-color: silver;
+}
+.line-through {
+    text-decoration: line-through;
+    font-size: 200%; 
+}
+.ten {
+    text-shadow: 4px 5px 3px red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.shrift {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 300%;
+    color: blueviolet;
+    text-shadow: 2px 2px 2px white;
+}
+.lower {
+    text-transform: lowercase;
+    font-family: cursive;
+    background-color: teal;
+    color: violet;
+    text-decoration: line-through
+}
+.big {
+    font-size: 250%;
+    color: red;
+}
+.trigger {
+    font-size: 200%;
+    text-transform: uppercase;
+    color: royalblue;
+}
+.x {
+    text-align: right;
+    color: sienna;
+}
